@@ -13,14 +13,14 @@ import datetime
 messages = {
     "Riccardo Valeria": """Thank you for placing your order with us. If you are happy with your purchase, we would truly appreciate your review.  
 
-If you experience any issue with your order, please don’t hesitate to contact us at Email: info@riccardovaleria.com  
+If you experience any issue with your order, please don’t hesitate to contact us on Tiktok or Email: info@riccardovaleria.com  
 or simply scan the QR code to send us a direct message.  
 
 <br/>Best Regards<br/>Team Riccardo Valeria""",
 
     "StyleMyBedroom": """Thank you for shopping with us. If you are happy with your purchase, we would be grateful if you could leave us a review.  
 
-If you encounter any issue with your order, please contact us at Email: myinfo@stylemybedroom.com  
+If you encounter any issue with your order, please contact us on Tiktok or Email: myinfo@stylemybedroom.com  
 or scan the QR code to reach us directly.  
 
 <br/>Best Regards<br/>Team StyleMyBedroom"""
