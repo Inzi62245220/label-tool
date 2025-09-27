@@ -16,14 +16,14 @@ messages = {
 If you experience any issue with your order, please don’t hesitate to contact us at Email: info@riccardovaleria.com  
 or simply scan the QR code to send us a direct message.  
 
-Best Regards<br/>Team Riccardo Valeria""",
+<br/>Best Regards<br/>Team Riccardo Valeria""",
 
     "StyleMyBedroom": """Thank you for shopping with us. If you are happy with your purchase, we would be grateful if you could leave us a review.  
 
 If you encounter any issue with your order, please contact us at Email: myinfo@stylemybedroom.com  
 or scan the QR code to reach us directly.  
 
-Best Regards<br/>Team StyleMyBedroom"""
+<br/>Best Regards<br/>Team StyleMyBedroom"""
 }
 
 # ✅ WhatsApp greetings per company
